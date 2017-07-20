@@ -11,7 +11,7 @@
     <message>
         <location filename="gui.py" line="454"/>
         <source>Slic3r engine version is </source>
-        <translation type="obsolete">Slic3r versión de motor </translation>
+        <translation type="obsolete">Basado en Slic3r versión </translation>
     </message>
 </context>
 <context>
@@ -19,7 +19,7 @@
     <message>
         <location filename="sceneData.py" line="312"/>
         <source>â¢ Object %s... is out of printable area!</source>
-        <translation type="obsolete">â¢ Objecto %s... está fuera del área de impresión!</translation>
+        <translation type="obsolete">â¢ Objecto %s... fuera del área de impresión!</translation>
     </message>
 </context>
 <context>
@@ -32,7 +32,7 @@
     <message>
         <location filename="controller.py" line="1833"/>
         <source>Processing triangulated mesh</source>
-        <translation>Procesando malla triangulada</translation>
+        <translation>Procesando malla triangular</translation>
     </message>
     <message>
         <location filename="controller.py" line="1834"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="controller.py" line="241"/>
         <source>Object </source>
-        <translation>Objecto</translation>
+        <translation>Objeto</translation>
     </message>
     <message>
         <location filename="controller.py" line="242"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="controller.py" line="243"/>
         <source>Scene is hard to print without support.</source>
-        <translation>La escena es difícil de imprimir sin soportes.</translation>
+        <translation>Escena difícil de imprimir sin soportes.</translation>
     </message>
     <message>
         <location filename="controller.py" line="244"/>
@@ -82,17 +82,17 @@
     <message>
         <location filename="controller.py" line="620"/>
         <source>Hollow/Shell - </source>
-        <translation>Hueco/Casco - </translation>
+        <translation>Hueco/Carcasa - </translation>
     </message>
     <message>
         <location filename="controller.py" line="621"/>
         <source>Sparse - </source>
-        <translation>Esparcido - </translation>
+        <translation>Escaso - </translation>
     </message>
     <message>
         <location filename="controller.py" line="622"/>
         <source>Light - </source>
-        <translation>Liviano - </translation>
+        <translation>Ligero - </translation>
     </message>
     <message>
         <location filename="controller.py" line="623"/>
@@ -133,27 +133,27 @@
     <message>
         <location filename="sceneRender.py" line="276"/>
         <source>Scale tool</source>
-        <translation>Herramienta de escalado</translation>
+        <translation>Herramienta Escalar</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="284"/>
         <source>Place on face tool</source>
-        <translation>Ubicar en la cara</translation>
+        <translation>Colocar en la cara</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="291"/>
         <source>Rotate tool</source>
-        <translation>Herramienta de rotación</translation>
+        <translation>Herramienta Rotar</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="297"/>
         <source>Arrange tool</source>
-        <translation>Arreglo automático</translation>
+        <translation>Herramienta Organizar</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="303"/>
         <source>Multiplication tool</source>
-        <translation>Herramienta de multiplicación</translation>
+        <translation>Herramienta Multiplicar</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="320"/>
@@ -163,7 +163,7 @@
     <message>
         <location filename="sceneRender.py" line="312"/>
         <source>Do</source>
-        <translation type="obsolete">Realizar</translation>
+        <translation type="obsolete">Hacer</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="677"/>
@@ -178,7 +178,7 @@
     <message>
         <location filename="sceneRender.py" line="310"/>
         <source>Support tool</source>
-        <translation>Herramienta de soporte</translation>
+        <translation>Herramienta Soporte</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="326"/>
@@ -198,7 +198,7 @@
     <message>
         <location filename="sceneRender.py" line="793"/>
         <source>PRINT INFO</source>
-        <translation>INFO DE IMPRESIÓN</translation>
+        <translation>INFO IMPRESIÓN</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="807"/>
@@ -211,12 +211,12 @@
     <message>
         <location filename="gui.py" line="77"/>
         <source>Add color change point</source>
-        <translation>Añadir punto de cambio de color</translation>
+        <translation>Añadir cambio de color</translation>
     </message>
     <message>
         <location filename="gui.py" line="118"/>
         <source>Delete color change point</source>
-        <translation>Eliminar el punto de cambio de color</translation>
+        <translation>Eliminar cambio de color</translation>
     </message>
 </context>
 <context>
@@ -229,7 +229,7 @@
     <message>
         <location filename="gui.py" line="497"/>
         <source>Version of firmware is</source>
-        <translation type="obsolete">La versión de firmware es</translation>
+        <translation type="obsolete">Versión de firmware es</translation>
     </message>
 </context>
 <context>
@@ -242,7 +242,7 @@
     <message>
         <location filename="gui.py" line="1387"/>
         <source>Import model file</source>
-        <translation>Importar archivo de modelo</translation>
+        <translation>Importar modelo</translation>
     </message>
     <message>
         <location filename="gui.py" line="1392"/>
@@ -317,12 +317,12 @@
     <message>
         <location filename="gui.py" line="1268"/>
         <source>In what units you want to scale?</source>
-        <translation>¿En qué unidades quieres escalar?</translation>
+        <translation>¿En qué unidad quiere escalar?</translation>
     </message>
     <message>
         <location filename="gui.py" line="1271"/>
         <source>Lock of scaling axis</source>
-        <translation>Bloquear el eje de escala</translation>
+        <translation>Bloquear ejes para escalar</translation>
     </message>
     <message>
         <location filename="gui.py" line="1274"/>
@@ -343,7 +343,7 @@
     <message>
         <location filename="gui.py" line="781"/>
         <source>Place on pad</source>
-        <translation type="obsolete">Colocar en almohadilla</translation>
+        <translation type="obsolete">Colocar en superficie</translation>
     </message>
     <message>
         <location filename="gui.py" line="1278"/>
@@ -363,7 +363,7 @@
     <message>
         <location filename="gui.py" line="1284"/>
         <source>Printer settings</source>
-        <translation>Configuración de impresora</translation>
+        <translation>Configuración impresora</translation>
     </message>
     <message>
         <location filename="gui.py" line="1286"/>
@@ -383,7 +383,7 @@
     <message>
         <location filename="gui.py" line="1292"/>
         <source>Select quality for printing</source>
-        <translation>Selecciona la calidad de impresión. Mejor calidad, mas tiempo de impresión.</translation>
+        <translation>Selecciona calidad de impresión. Más calidad = más tiempo de impresión.</translation>
     </message>
     <message>
         <location filename="gui.py" line="2335"/>
@@ -393,12 +393,12 @@
     <message>
         <location filename="gui.py" line="1297"/>
         <source>Select how much space inside of model have to be filled</source>
-        <translation>Seleccione la cantidad de espacio dentro del modelo a llenarse</translation>
+        <translation>Seleccione cantidad de espacio a llenar dentro del modelo</translation>
     </message>
     <message>
         <location filename="gui.py" line="1301"/>
         <source>Support</source>
-        <translation>Suporte</translation>
+        <translation>Soporte</translation>
     </message>
     <message>
         <location filename="gui.py" line="1304"/>
@@ -408,7 +408,7 @@
     <message>
         <location filename="gui.py" line="1304"/>
         <source>Build plate only</source>
-        <translation>Sólo en la bandeja de construcción</translation>
+        <translation>Solo desde la superficie de impresión</translation>
     </message>
     <message>
         <location filename="gui.py" line="1304"/>
@@ -418,7 +418,7 @@
     <message>
         <location filename="gui.py" line="1302"/>
         <source>Select what kind of supports do you need, if any</source>
-        <translation>Selecciona el tipo de soportes que necesites</translation>
+        <translation>Selecciona el tipo de soportes necesario</translation>
     </message>
     <message>
         <location filename="gui.py" line="1309"/>
@@ -428,7 +428,7 @@
     <message>
         <location filename="gui.py" line="1308"/>
         <source>Do you need better adhesive of model and printing bed?</source>
-        <translation>¿Necesita mejor adherencia entre el modelo y la cama?</translation>
+        <translation>¿Es necesario mejorar adherencia modelo-cama?</translation>
     </message>
     <message>
         <location filename="gui.py" line="1319"/>
@@ -453,7 +453,7 @@
     <message>
         <location filename="gui.py" line="1613"/>
         <source>Generate scene with actual options to gcode file</source>
-        <translation>Generar escena con las opciones actuales a un archivo GCode</translation>
+        <translation>Generar escena con las opciones actuales en un archivo GCode</translation>
     </message>
     <message>
         <location filename="gui.py" line="954"/>
@@ -488,17 +488,17 @@
     <message>
         <location filename="gui.py" line="1273"/>
         <source>Place on bed</source>
-        <translation>Lugar en la cama</translation>
+        <translation>Colocar en la cama</translation>
     </message>
     <message>
         <location filename="gui.py" line="1281"/>
         <source>And color change</source>
-        <translation>Y cambio de color</translation>
+        <translation>Cambio de color</translation>
     </message>
     <message>
         <location filename="gui.py" line="1313"/>
         <source>Material Settings</source>
-        <translation>Configuración de material</translation>
+        <translation>Configuración material</translation>
     </message>
     <message>
         <location filename="gui.py" line="1314"/>
@@ -523,12 +523,12 @@
     <message>
         <location filename="gui.py" line="1321"/>
         <source>Gcode preview</source>
-        <translation>Vista previa de Gcode</translation>
+        <translation>Vista previa Gcode</translation>
     </message>
     <message>
         <location filename="gui.py" line="1323"/>
         <source>Reset transformations</source>
-        <translation>Reiniciar información</translation>
+        <translation>Reiniciar transformaciones</translation>
     </message>
     <message>
         <location filename="gui.py" line="1389"/>
@@ -543,27 +543,27 @@
     <message>
         <location filename="gui.py" line="1350"/>
         <source>Undo	Ctrl+Z</source>
-        <translation type="obsolete">Deshacer</translation>
+        <translation type="obsolete">Deshacer	Ctrl+Z</translation>
     </message>
     <message>
         <location filename="gui.py" line="1351"/>
         <source>Redo	Ctrl+Y</source>
-        <translation type="obsolete">Rehacer</translation>
+        <translation type="obsolete">Rehacer	Ctrl+Y</translation>
     </message>
     <message>
         <location filename="gui.py" line="1353"/>
         <source>Copy	Ctrl+C</source>
-        <translation type="obsolete">Copiar</translation>
+        <translation type="obsolete">Copiar	Ctrl+C</translation>
     </message>
     <message>
         <location filename="gui.py" line="1354"/>
         <source>Paste	Ctrl+V</source>
-        <translation type="obsolete">Pegar</translation>
+        <translation type="obsolete">Pegar	Ctrl+V</translation>
     </message>
     <message>
         <location filename="gui.py" line="1355"/>
         <source>Delete	Del</source>
-        <translation type="obsolete">Borrar</translation>
+        <translation type="obsolete">Borrar	Del</translation>
     </message>
     <message>
         <location filename="gui.py" line="1426"/>
@@ -708,7 +708,7 @@
     <message>
         <location filename="gui.py" line="1464"/>
         <source>Discard</source>
-        <translation>Desechar</translation>
+        <translation>Descartar</translation>
     </message>
     <message>
         <location filename="gui.py" line="1390"/>
@@ -809,7 +809,7 @@
     <message>
         <location filename="gui.py" line="643"/>
         <source>Slic3r engine version is </source>
-        <translation>Slic3r versión de motor </translation>
+        <translation>Basado en Slic3r versión </translation>
     </message>
     <message>
         <location filename="gui.py" line="668"/>
@@ -824,7 +824,7 @@
     <message>
         <location filename="gui.py" line="686"/>
         <source>Version of firmware is</source>
-        <translation>La versión de firmware es</translation>
+        <translation>Versión de firmware es</translation>
     </message>
 </context>
 <context>
@@ -840,7 +840,7 @@
     <message>
         <location filename="sceneData.py" line="312"/>
         <source>Object </source>
-        <translation type="obsolete">Objecto</translation>
+        <translation type="obsolete">Objeto</translation>
     </message>
     <message>
         <location filename="sceneData.py" line="313"/>
@@ -873,12 +873,12 @@
     <message>
         <location filename="controller.py" line="1757"/>
         <source>Processing triangulated mesh</source>
-        <translation type="obsolete">Procesamiento de malla triangulada</translation>
+        <translation type="obsolete">Procesando malla triangular</translation>
     </message>
     <message>
         <location filename="controller.py" line="1758"/>
         <source>Infilling layers</source>
-        <translation type="obsolete">Capas de relleno</translation>
+        <translation type="obsolete">Relleno de capas</translation>
     </message>
     <message>
         <location filename="controller.py" line="1759"/>
