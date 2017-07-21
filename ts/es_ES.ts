@@ -19,7 +19,7 @@
     <message>
         <location filename="sceneData.py" line="312"/>
         <source>â¢ Object %s... is out of printable area!</source>
-        <translation type="obsolete">â¢ Objecto %s... fuera del área de impresión!</translation>
+        <translation type="obsolete">â¢ Objeto %s... fuera del área de impresión!</translation>
     </message>
 </context>
 <context>
@@ -433,12 +433,12 @@
     <message>
         <location filename="gui.py" line="1319"/>
         <source>Object settings</source>
-        <translation>Configuración del objecto</translation>
+        <translation>Configuración del objeto</translation>
     </message>
     <message>
         <location filename="gui.py" line="1320"/>
         <source>Object advance settings</source>
-        <translation>Configuración avanzada del objecto</translation>
+        <translation>Configuración avanzada del objeto</translation>
     </message>
     <message>
         <location filename="gui.py" line="887"/>
@@ -643,7 +643,7 @@
     <message>
         <location filename="gui.py" line="1514"/>
         <source>Some objects are in scene</source>
-        <translation>Algunos objectos están en la escena</translation>
+        <translation>Algunos objetos están en la escena</translation>
     </message>
     <message>
         <location filename="gui.py" line="1515"/>
